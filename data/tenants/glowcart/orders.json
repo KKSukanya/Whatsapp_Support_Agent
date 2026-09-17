@@ -1,0 +1,29 @@
+{
+  "GC1001": {
+    "order_id": "GC1001",
+    "customer_name": "Ananya Rao",
+    "status": "shipped",
+    "items": ["Vitamin C Serum 30ml"],
+    "total": "₹899",
+    "tracking_url": "https://track.example.com/GC1001",
+    "expected_delivery": "2026-09-20"
+  },
+  "GC1002": {
+    "order_id": "GC1002",
+    "customer_name": "Rohit Mehta",
+    "status": "processing",
+    "items": ["Hydrating Face Wash", "SPF 50 Sunscreen"],
+    "total": "₹1,249",
+    "tracking_url": null,
+    "expected_delivery": "2026-09-24"
+  },
+  "GC1003": {
+    "order_id": "GC1003",
+    "customer_name": "Fatima Sheikh",
+    "status": "delivered",
+    "items": ["Retinol Night Cream"],
+    "total": "₹1,499",
+    "tracking_url": "https://track.example.com/GC1003",
+    "expected_delivery": "2026-09-10"
+  }
+}

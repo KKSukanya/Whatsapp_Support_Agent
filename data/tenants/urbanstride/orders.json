@@ -1,0 +1,20 @@
+{
+  "US2001": {
+    "order_id": "US2001",
+    "customer_name": "Kabir Singh",
+    "status": "shipped",
+    "items": ["Trail Runner Sneakers - UK 9"],
+    "total": "₹3,499",
+    "tracking_url": "https://track.example.com/US2001",
+    "expected_delivery": "2026-09-22"
+  },
+  "US2002": {
+    "order_id": "US2002",
+    "customer_name": "Priya Nair",
+    "status": "cancelled",
+    "items": ["Everyday Backpack 22L"],
+    "total": "₹2,199",
+    "tracking_url": null,
+    "expected_delivery": null
+  }
+}
