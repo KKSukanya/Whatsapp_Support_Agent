@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+logs/*.jsonl
+data/vector_store/
+eval/last_run.json
+.git/
+.gitignore
+README.md
+docs/
